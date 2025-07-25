@@ -1,5 +1,9 @@
 # esp-idf-lib/esp_idf_lib_helpers
 
+[![Build examples](https://github.com/esp-idf-lib/esp_idf_lib_helpers/actions/workflows//build.yml/badge.svg)](https://github.com/esp-idf-lib/esp_idf_lib_helpers/actions/workflows//build.yml)
+[![Build docs](https://github.com/esp-idf-lib/esp_idf_lib_helpers/actions/workflows//build-docs.yml/badge.svg)](https://github.com/esp-idf-lib/esp_idf_lib_helpers/actions/workflows//build-docs.yml)
+[![Validation](https://github.com/esp-idf-lib/esp_idf_lib_helpers/actions/workflows//validate-component.yml/badge.svg)](https://github.com/esp-idf-lib/esp_idf_lib_helpers/actions/workflows//validate-component.yml)
+
 Common support library for esp-idf-lib.
 
 * [Documentation](https://esp-idf-lib.github.io/esp_idf_lib_helpers/)
@@ -11,7 +15,7 @@ Common support library for esp-idf-lib.
 ## Installation
 
 ```sh
-idf.py add-dependency esp-idf-lib/esp_idf_lib_helpers^1.2.0
+idf.py add-dependency esp-idf-lib/esp_idf_lib_helpers
 ```
 
 ## Support
