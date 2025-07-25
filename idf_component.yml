@@ -24,4 +24,4 @@ issues: https://github.com/esp-idf-lib/esp_idf_lib_helpers/issues
 discussion: https://github.com/esp-idf-lib/core/discussions
 files:
   exclude:
-    - docs
+    - docs/**/*
