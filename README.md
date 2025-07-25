@@ -11,7 +11,7 @@ Common support library for esp-idf-lib.
 ## Installation
 
 ```sh
-idf.py add-dependency "esp-idf-lib/esp_idf_lib_helpers^1.2.0
+idf.py add-dependency esp-idf-lib/esp_idf_lib_helpers^1.2.0
 ```
 
 ## Support
