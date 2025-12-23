@@ -9,4 +9,4 @@ on:
 
 jobs:
   build-examples:
-    uses: esp-idf-lib/shared-workflows/.github/workflows/build-weekly.yaml@main
+    uses: esp-idf-lib/shared-workflows/.github/workflows/build-weekly.yml@main
