@@ -9,4 +9,4 @@ on:
       - synchronize
 jobs:
   build-examples:
-    uses: esp-idf-lib/shared-workflows/.github/workflows/build-examples.yml@main
+    uses: esp-idf-lib/shared-workflows/.github/workflows/build-examples.yml@idf60
